@@ -92,7 +92,8 @@ li{
   margin: 20px;
   padding: 50px;
   border-radius: 20px; 
-  margin-top: 1px;
+  justify-content: center;
+  align-items: center;
 }
 
 
@@ -198,6 +199,7 @@ li{
 
 .content3 {
   margin-top: 59px;
+  margin-bottom: 300px;
 }
 
 #p {
